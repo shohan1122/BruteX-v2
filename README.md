@@ -10,10 +10,13 @@
 * `pkg install git -y`
 * `pip install lolcat`
 * `git clone https://github.com/shohan1122/BruteX-v2`
+
 *`cd BruteX-v2`
+
 *`python p.py`
 
 
-Suscribe my chanal tecnical bangla 
+## Suscribe my chanal tecnical bangla 
 
 
+https://www.youtube.com/@technicalbangla223
